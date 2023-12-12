@@ -5,7 +5,6 @@
 - [Mongoose](https://mongoosejs.com/): ODM (Object Data Modeling) pour MongoDB.
 - [bcrypt](https://www.npmjs.com/package/bcrypt): Pour le hachage des mots de passe.
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken): Pour la gestion des tokens JWT.
-- [Autres dépendances utilisées dans votre projet]
 
 ## Installation
 
